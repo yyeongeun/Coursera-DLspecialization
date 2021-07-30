@@ -10,3 +10,7 @@
 |3|Structuring Machine Learning Projects|X|
 |4|Convolutional Neural Networks|X
 |5|Sequence Models|X|
+
+
+![image](https://user-images.githubusercontent.com/70632327/127610881-e43c8780-9450-4a29-af6d-72402396201e.png)
+
